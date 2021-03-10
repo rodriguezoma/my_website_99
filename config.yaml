@@ -1,4 +1,4 @@
-baseURL: http://zoma-website.netlify.app/
+baseURL: http://rodrigue-website.netlify.app/
 languageCode: en-us
 title: ZOMA W Rodrigue
 theme: forty
@@ -13,9 +13,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Koudougou, secteur N 07
+        country: Burkina Faso
+        street: Rue 00024
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -24,8 +24,9 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+226) 62 46 59 19 / 76 52 96 98
         title: Phone
+        
   custom_css: []
   custom_js: []
   description: Your description
@@ -34,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: wendyamrodriguezoma
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -80,27 +81,27 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: imag1.JPG
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
-      - image: imag1.JPG
+      - image: imag3.JPG
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: imag8.JPG
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
-      - image: pic04.jpg
+      - image: imag11.JPG
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: imag7.JPG
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: imag9.JPG
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
