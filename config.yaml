@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      this is my portflio website
+      this is my first portflio website
     title: Hi, my name is W Rodrigue ZOMA
   blog: {}
   contact:
