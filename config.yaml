@@ -6,10 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Start
     subtitle: |-
       this is my first portflio website
-    title: Hi, my name is W Rodrigue ZOMA
+    title: Wendyam Rodrigue ZOMA
   blog: {}
   contact:
     address:
@@ -106,13 +106,14 @@ params:
         title: Etiam
         url: blogs/ipsum
   two:
-    buttonText: Start
+    buttonText: ok
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "My name is Wendyam Rodrigue ZOMA, I was born on February 24, 1996 and I am originally from the Central West region, particularly in Koudougou. I am currently in a year of license in an institute of technology, I like my studies, it is quite diversified, dynamic, clearly I like what I do, yet there is a field that I like very much which networking!
+
+Since I was little, I have a taste for travelling!
+For a long time, I spent my vacations in Bobo Dioulasso and Banfora. Banfora was a region that I fell in love with thanks to its beauty, its nature and the serenity that it brings me. 
+Then, I discovered the Ivory Coast thanks to a "free" religious trip! It is a country that fascinates me with many facets, an important cultural activity and very nice people! I love the city of Koudougou, it is my city, my favorite, it is a city where I feel good, where there is brotherhood!
+
+Translated with www.DeepL.com/Translator (free version)."
+    title:  libero
     url: blogs
