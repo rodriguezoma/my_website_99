@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: wendyam ~ rodrigue ~ zoma
+    copyright: wendyamrodriguezoma
     enable: yes
     quicklinks:
       - alt: HTML5 UP
