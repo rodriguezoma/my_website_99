@@ -82,12 +82,12 @@ params:
     enable: yes
     showcase:
       - image: imag1.JPG
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Educate a new generation
+        title: BIT
         url: blogs/aliquam
       - image: imag3.JPG
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: 
+        title: Tavels
         url: blogs/tempus
       - image: imag8.JPG
         subtitle: coding is a pleasure
@@ -98,11 +98,11 @@ params:
         title: leisure
         url: blogs/ipsum
       - image: imag7.JPG
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: splay is better for us
         title: Sport
         url: blogs/ipsum
       - image: imag9.JPG
-        subtitle: Feugiat Amet Tempus
+        subtitle: study
         title: School
         url: blogs/ipsum
   two:
