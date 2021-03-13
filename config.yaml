@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: imag1.JPG
+      - image: imag13.jpg
         subtitle: Educate a new generation
         title: BIT
-        url: blogs/aliquam
+        url: img/bit.PNG
       - image: imag3.JPG
         subtitle: 
         title: Tavels
@@ -92,7 +92,7 @@ params:
       - image: imag8.JPG
         subtitle: coding is a pleasure
         title: Code programming
-        url: blogs/magna
+        url: your-name_pre_programme_assignment.html
       - image: imag11.JPG
         subtitle: Nisl Sed Aliquam
         title: leisure
@@ -101,10 +101,10 @@ params:
         subtitle: splay is better for us
         title: Sport
         url: blogs/ipsum
-      - image: imag9.JPG
+      - image: imag1.JPG
         subtitle: study
         title: School
-        url: blogs/ipsum
+        url: index.html
   two:
     buttonText: Start
     enable: yes
