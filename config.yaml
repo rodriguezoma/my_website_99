@@ -90,30 +90,27 @@ params:
         title: Tempus
         url: blogs/tempus
       - image: imag8.JPG
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: coding is a pleasure
+        title: Code programming
         url: blogs/magna
       - image: imag11.JPG
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: leisure
         url: blogs/ipsum
       - image: imag7.JPG
         subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        title: Sport
         url: blogs/ipsum
       - image: imag9.JPG
         subtitle: Feugiat Amet Tempus
-        title: Etiam
+        title: School
         url: blogs/ipsum
   two:
     buttonText: Start
     enable: yes
-    subtitle: "My name is Wendyam Rodrigue ZOMA, I was born on February 24, 1996 and I am originally from the Central West region, particularly in Koudougou. I am currently in a year of license in an institute of technology, I like my studies, it is quite diversified, dynamic, clearly I like what I do, yet there is a field that I like very much which networking!
-
-Since I was little, I have a taste for travelling!
+    subtitle: "My name is Wendyam Rodrigue ZOMA, I was born on February 24, 1996 and I am originally from the Central West region, particularly in Koudougou. I am currently in a year of license in an institute of technology, I like my studies, it is quite diversified, dynamic, clearly I like what I do, yet there is a field that I like very much which networking! Since I was little, I have a taste for travelling!
 For a long time, I spent my vacations in Bobo Dioulasso and Banfora. Banfora was a region that I fell in love with thanks to its beauty, its nature and the serenity that it brings me. 
-Then, I discovered the Ivory Coast thanks to a "free" religious trip! It is a country that fascinates me with many facets, an important cultural activity and very nice people! I love the city of Koudougou, it is my city, my favorite, it is a city where I feel good, where there is brotherhood!
+Then, I discovered the Ivory Coast thanks to a free religious trip! It is a country that fascinates me with many facets, an important cultural activity and very nice people! I love the city of Koudougou, it is my city, my favorite, it is a city where I feel good, where there is brotherhood!"
 
-Translated with www.DeepL.com/Translator (free version)."
-    title:  libero
+    title:  Biography
     url: blogs
