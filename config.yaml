@@ -15,7 +15,7 @@ params:
     address:
       - city: Koudougou, secteur N 07
         country: Burkina Faso
-        street: Rue 0021
+        street: Rue 00024
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -104,7 +104,7 @@ params:
       - image: imag1.JPG
         subtitle: study
         title: School
-        url: index.html
+        url: img/bit.PNG
   two:
     buttonText: Start
     enable: yes
