@@ -9,7 +9,7 @@ params:
     buttonText: Start
     subtitle: |-
       this is my first portflio website
-    title: Wendyam Rodrigue ZOMA
+    title:  Wendyam Rodrigue ZOMA
   blog: {}
   contact:
     address:
@@ -76,7 +76,7 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: By portflio
     title: ZOMA
   tiles:
     enable: yes
@@ -94,7 +94,7 @@ params:
         title: Code programming
         url: your-name_pre_programme_assignment.html
       - image: imag11.JPG
-        subtitle: Nisl Sed Aliquam
+        subtitle: 
         title: leisure
         url: blogs/ipsum
       - image: imag7.JPG
