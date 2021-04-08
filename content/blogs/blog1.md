@@ -2,11 +2,11 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
+date: "2021-01-31T11:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: bg2.JPG
 keywords: ""
-slug: ipsum
+slug: now
 title: BIT
 ---

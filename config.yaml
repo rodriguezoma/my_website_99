@@ -72,7 +72,7 @@ params:
       - name: Blogs
         url: blogs
       - name: Generic Blog
-        url: blogs/ipsum
+        url: blogs/now
       - name: Elements
         url: elements.html
     menu: Menu
@@ -88,7 +88,7 @@ params:
       - image: imag3.JPG
         subtitle: 
         title: Tavels
-        url: blogs/tempus
+        url: blogs/travels
       - image: imag8.JPG
         subtitle: coding is a pleasure
         title: Code programming
@@ -96,11 +96,11 @@ params:
       - image: imag11.JPG
         subtitle: 
         title: leisure
-        url: blogs/ipsum
+        url: blogs/now
       - image: imag7.JPG
         subtitle: splay is better for us
         title: Sport
-        url: blogs/ipsum
+        url: blogs/now
       - image: imag1.JPG
         subtitle: study
         title: School
