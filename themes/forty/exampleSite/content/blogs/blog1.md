@@ -11,4 +11,9 @@ date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+When we have categorical variables, the
+one left out of the regression model is our
+‘baseline’ with respect to that category. So
+for education, the first level was
+‘Elementary’. What is the meaning of the
+slope for ed_levelEd_3 = 15823?

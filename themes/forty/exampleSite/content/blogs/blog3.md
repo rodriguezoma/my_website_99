@@ -1,6 +1,10 @@
 ---
 title: "Tempus"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: "During collaboration with a colleague on a project, you may find cases where Git is highlighting differences
+on seemingly unchanged sentences.
+If that is the case, check whether your partner is using a different operating system to you.
+The "culprit" is the fact that Git evaluates an invisible character at the end of every line. This is how Git tracks
+changes."
 slug: "tempus"
 image: pic08.jpg
 keywords: ""
